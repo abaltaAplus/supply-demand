@@ -4,7 +4,7 @@ library(quantmod)
 library("httr")
 # chooseHour=22
 chooseLag=1
-
+# TEST
 targetDay=as.Date('2019-06-10')
 
 ##  Supply-Demand Curve Example
